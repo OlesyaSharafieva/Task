@@ -1,0 +1,152 @@
+.add-item{
+    height: 40px;
+    width: 260px;
+    color: #696969;
+    margin-top: 10px;
+    margin-left: 44px;
+    font-size: 18px;
+}
+.button-add{
+background:#3CB371;
+width: 81px;
+height: 33px;
+color: white;
+}
+.red{
+    width: 20px;
+    height: 20px;
+}
+.colors{
+    margin-left: 362px;
+    margin-top: -43px;
+}
+.reds{
+    background:red;
+    color: white;
+    
+}
+.pink{
+  background:pink;
+  color: white;
+}
+.yellow{
+    background:gold;
+    color: white;
+}
+.blue{
+    background:blue;
+    color: white;
+}
+.aqua{
+    background:aqua;
+    color: white;
+}
+.violet{
+    background:#4B0082;
+    color: white;
+}
+.red-task{
+    background:red;
+    height:40px;
+    width:600px;
+    color: white;
+    border-radius: 4px;
+    margin-top: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.pink-task{
+    background:pink; 
+    height:40px;
+    width:600px;
+    color: white;
+    border-radius: 4px;
+    margin-top: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.yellow-task{
+    background:gold;
+    height:40px;
+    width:600px;
+    color: white;
+    border-radius: 4px;
+    margin-top: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.blue-task{
+    background:blue; 
+    height:40px;
+    width:600px;
+    color: white;
+    border-radius: 4px;
+    margin-top: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.aqua-task{
+    background:aqua; 
+    height:40px;
+    width:600px;
+    color: white;
+    border-radius: 4px;
+    margin-top: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.violet-task{
+    background:#4B0082;
+    height:40px;
+    width:600px;
+    color: white;
+    border-radius: 4px;
+    margin-top: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.square{
+    height:40px;
+    width:600px;
+}
+
+.text-input{
+    width:300px;
+    float: left;
+    display: block;
+    margin: 2px;
+}
+.buttons-color{
+    float: left;
+    display: block;
+    width: 300px;
+    margin: 18px;
+    margin-left: 57px;
+    margin-left: 367px;
+    margin-top: -36px;
+}
+.line {
+    margin-left: 20px;
+    padding-left: 54px;
+    margin-top: -29px
+}
+.container{
+    border: 1px solid grey;
+    width: 600px;
+    height: 70px;
+    margin-top: 20px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+input{
+border: none;
+}
+input[type="text"]::-webkit-input-placeholder { 
+    text-align: center;
+ }
+.check{
+    border-right: 2px solid white;
+    width: 50px;
+    height: 39px;
+}
+#checkbox{
+    margin-left: 17px;
+    margin-top: 12px;
+}
+input:focus {
+    outline-color:grey;
+}
